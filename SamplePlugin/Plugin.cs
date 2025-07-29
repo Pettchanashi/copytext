@@ -1,10 +1,4 @@
-﻿using Dalamud.Game.Command;
-using Dalamud.IoC;
-using Dalamud.Plugin;
-using System.IO;
-using Dalamud.Interface.Windowing;
-using Dalamud.Plugin.Services;
-using SamplePlugin.Windows;
+﻿using Dalamud.Plugin;
 
 namespace XIVNpcDialogueCopy
 {
